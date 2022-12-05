@@ -1,0 +1,76 @@
+{
+    "items": [
+        {
+            "link": "https://spb.hh.ru/vacancy/73247485?from=vacancy_search_list&query=python",
+            "salary": "60 000 – 90 000 руб.",
+            "company": "Stik",
+            "city": "Санкт-Петербург"
+        },
+        {
+            "link": "https://spb.hh.ru/vacancy/73037451?from=vacancy_search_list&query=python",
+            "salary": "-",
+            "company": "Рексофт",
+            "city": "Москва"
+        },
+        {
+            "link": "https://spb.hh.ru/vacancy/73037370?from=vacancy_search_list&query=python",
+            "salary": "-",
+            "company": "Рексофт",
+            "city": "Санкт-Петербург"
+        },
+        {
+            "link": "https://spb.hh.ru/vacancy/73019489?from=vacancy_search_list&query=python",
+            "salary": "-",
+            "company": "АО ОКЕНИТ",
+            "city": "Санкт-Петербург"
+        },
+        {
+            "link": "https://spb.hh.ru/vacancy/73032159?from=vacancy_search_list&query=python",
+            "salary": "от 57 000 руб.",
+            "company": "ЧУ ДО Московская школа программистов",
+            "city": "Москва"
+        },
+        {
+            "link": "https://spb.hh.ru/vacancy/72869326?from=vacancy_search_list&query=python",
+            "salary": "-",
+            "company": "Kokoc Group",
+            "city": "Санкт-Петербург"
+        },
+        {
+            "link": "https://spb.hh.ru/vacancy/72889397?from=vacancy_search_list&query=python",
+            "salary": "-",
+            "company": "Группа Самолет",
+            "city": "Москва"
+        },
+        {
+            "link": "https://spb.hh.ru/vacancy/72867688?from=vacancy_search_list&query=python",
+            "salary": "-",
+            "company": "Kokoc Group",
+            "city": "Москва"
+        },
+        {
+            "link": "https://spb.hh.ru/vacancy/72036348?from=vacancy_search_list&query=python",
+            "salary": "-",
+            "company": "ЛитРес",
+            "city": "Москва"
+        },
+        {
+            "link": "https://spb.hh.ru/vacancy/72538290?from=vacancy_search_list&query=python",
+            "salary": "-",
+            "company": "Первый Дом Консалтинга ЧТО ДЕЛАТЬ КОНСАЛТ",
+            "city": "Москва"
+        },
+        {
+            "link": "https://spb.hh.ru/vacancy/72014354?from=vacancy_search_list&query=python",
+            "salary": "-",
+            "company": "Группа Самолет",
+            "city": "Москва"
+        },
+        {
+            "link": "https://spb.hh.ru/vacancy/72167739?from=vacancy_search_list&query=python",
+            "salary": "от 230 000 руб.",
+            "company": "Российское общество Знание",
+            "city": "Москва"
+        }
+    ]
+}
