@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
+from log_package.logging_file import logger
 
 
 class HH_parser:
@@ -10,6 +11,7 @@ class HH_parser:
         self.url = url
         self.headers = headers
 
+    @logger('main.log')
     def get_vacations(self):
         url = self.url
         headers = self.headers
@@ -46,6 +48,7 @@ class HH_parser:
                     print(f'{link.text}, {link["href"]}, {salary}, {company}, {city}')
         return vacations_info
 
+    @logger('main.log')
     def write_json(self, vacations_file_name):
         vacations_info = self.get_vacations()
         with open(vacations_file_name, mode="w", encoding='utf-8') as json_file:

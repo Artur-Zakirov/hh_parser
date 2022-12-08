@@ -1,7 +1,12 @@
 from web.hh_classes import HH_parser
+import os
 
 
 if __name__ == '__main__':
+    path = 'main.log'
+    if os.path.exists(path):
+        os.remove(path)
+
     headers = {
         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
                       'Chrome/104.0.5112.124 YaBrowser/22.9.4.863 Yowser/2.5 Safari/537.36'

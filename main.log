@@ -1,0 +1,8 @@
+Время запуска функции: 08.12.2022 13:12
+Имя функции: get_vacations
+Переданные аргументы: (<web.hh_classes.HH_parser object at 0x000002180CFAFF70>,), {}
+Возвращаемое значение: {'items': [{'link': 'https://spb.hh.ru/vacancy/73032159?from=vacancy_search_list&query=python', 'salary': 'от 57 000 руб.', 'company': 'ЧУ ДО Московская школа программистов', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/73037451?from=vacancy_search_list&query=python', 'salary': '-', 'company': 'Рексофт', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/73019489?from=vacancy_search_list&query=python', 'salary': '-', 'company': 'АО ОКЕНИТ', 'city': 'Санкт-Петербург'}, {'link': 'https://spb.hh.ru/vacancy/70711480?from=vacancy_search_list&query=python', 'salary': '-', 'company': 'АО Рамакс Интернейшнл', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/72071488?from=vacancy_search_list&query=python', 'salary': '-', 'company': 'ФГБУ Федеральный институт промышленной собственности', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/72538290?from=vacancy_search_list&query=python', 'salary': '-', 'company': 'Первый Дом Консалтинга ЧТО ДЕЛАТЬ КОНСАЛТ', 'city': 'Москва'}, {'link': 'https://spb.hh.ru/vacancy/72071488?from=vacancy_search_list&query=python', 'salary': '-', 'company': 'ФГБУ Федеральный институт промышленной собственности', 'city': 'Москва'}]}
+Время запуска функции: 08.12.2022 13:12
+Имя функции: write_json
+Переданные аргументы: (<web.hh_classes.HH_parser object at 0x000002180CFAFF70>, 'new_vacations.json'), {}
+Возвращаемое значение: None
